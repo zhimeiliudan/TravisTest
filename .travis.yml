@@ -1,5 +1,5 @@
 language: android
-script: ./gradlew build connectedAndroidTest --stacktrace
+#script: ./gradlew build connectedAndroidTest --stacktrace
 #script: ./gradlew build assembleRelease --stacktrace
 #script:
 #- TERM=dumb ./gradlew -i test --stacktrace
